@@ -1,0 +1,23 @@
+AUCTION LOGS
+(ordered from oldest to newest)
+
+In a prior auction - 
+Item 2, Stradivarius Violin, was sold to Ayden for $15,000,000!
+Item 1, Edwardian Ring, was sold to Kayden for $805,000!
+Item 3, The Badminton Cabinet was sold to Ayden for $23,200,000!
+Item 5, Qing Dynasty Vase was sold to Ayden for $20,300,000!
+Item 4, The Supercomlication was sold to Ayden for $5,500,002!
+
+In a prior auction - 
+Item 1, Edwardian Ring, was sold to Ayden for $805,000!
+Item 4, The Supercomlication, was sold to a guest for $30,005,000!
+Item 2, Stradivarius Violin was sold to Ayden for $7,000,000!
+Item 3, The Badminton Cabinet was sold to a guest for $23,200,000!
+Item 5, Qing Dynasty Vase was sold to Ayden for $20,300,005!
+
+In a prior auction - 
+Item 1, Edwardian Ring, was sold to a guest for $805,000!
+Item 2, Stradivarius Violin, was sold to a guest for $15,000,000!
+Item 3, The Badminton Cabinet, was sold to a guest for $41,500,500!
+Item 4, The Supercomlication, was sold to a guest for $30,005,000!
+Item 5, Qing Dynasty Vase, was sold to a guest for $48,050,200!
